@@ -43,9 +43,13 @@ This is a simple **Java console application** that acts as a multiple-choice qui
 ## Sample Output
  Which statement is true about Java?
 A. Java is a sequence-dependent programming language 
+
 B. Java is a code dependent programming language 
+
 C. Java is a platform-dependent programming language 
-D. Java is a platform-independent programming language 
+
+D. Java is a platform-independent programming language
+
 Enter Your Answer: 
 D
 Correct
